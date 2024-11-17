@@ -59,5 +59,3 @@ provisioner "shell" {
 
 ![tf](img/02-03-vm_connect.png)
 
-### Задача 4. 
-![tf](img/01-01-yc_vm_created.png)
